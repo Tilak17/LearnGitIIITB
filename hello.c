@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+// messing around
 int main()
 {
 int i=0;
